@@ -6,6 +6,8 @@ This repository was created to publicly store the versions released by the Discl
 
 You can download the [latest release by clicking here](https://github.com/discloud/mobile/releases/latest).
 
+[![mobileapp](https://img.youtube.com/vi/JEx31ISoUp0/maxresdefault.jpg)](https://youtu.be/JEx31ISoUp0)
+
 ## Useful links
 
 - [Discloud](https://discloud.com/)
